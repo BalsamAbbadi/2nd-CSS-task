@@ -1,0 +1,21 @@
+.Serveses {
+    text-align: center;
+}
+
+.things {
+    width: 20%;
+    display: inline-block;
+    
+}
+
+#italic {
+    font-style: italic;
+}
+
+i{
+   width: 65px;
+    height: 60px; 
+    font-size: 50px;
+    background-color: darkkhaki;
+    color: white;
+}
